@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+    @font-face {
+        font-family: "ggsans-semibold";
+        src: url('./public/fonts/gg-sans/ggsans-Semibold.ttf');
+    }
+    @font-face {
+        font-family: "ggsans-medium";
+        src: url('./public/fonts/gg-sans/ggsans-Medium.ttf');
+    }
+    @font-face {
+        font-family: "ggsans-normal";
+        src: url('./public/fonts/gg-sans/ggsans-Normal.ttf');
+    }
+    @font-face {
+        font-family: "ggsans-bold";
+        src: url('./public/fonts/gg-sans/ggsans-Bold.ttf');
+    }
+
+    @font-face {
+        font-family: "ginto-nord";
+        src: url(./public/fonts/Ginto-Nord/Ginto-Nord-700.woff);
+    }
+    @font-face {
+        font-family: "ginto-nord-woff2";
+        src: url(./public/fonts/Ginto-Nord/Ginto-Nord-500.woff2);
+    }
+    @font-face {
+        font-family: "ginto";
+        src: url(./public/fonts/Ginto/Ginto-300.woff);
+    }
+    @font-face {
+        font-family: "whitney";
+        src: url(./public/fonts/Whitney/Whitney-300.woff);
+    }
